@@ -1,0 +1,62 @@
+img{
+    border: solid 2px burlywood;
+    border-radius: 3px;
+}
+.aboutimg
+{
+  height: 200px;
+}
+.maintitle
+{
+  height: 400px;
+}
+body{
+  background-color: dimgrey;
+  margin: 0px;
+  padding: 0px;
+}
+.arkaplan
+{
+  background-color: dimgrey;
+}
+li{
+  color : white;
+}
+.footer
+{
+left: 0;
+bottom: 0;
+width: 100%;
+}
+.ortala{
+margin: auto;
+}
+h2{
+  padding-left: 40%;
+  color: aliceblue;
+}
+.hr{
+  width: 100%;
+  height: 2px;
+  color: aliceblue;
+}
+.cizgi{
+  max-width: 100%;
+}
+th,td{
+  text-align: center;
+}
+.resim{
+  display: block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-top: 0;
+    border: 1px solid #ddd;
+    padding: 5px;
+    border-radius: 100%;
+    box-sizing: border-box;
+}
+.uzunluk{
+  height: 95%;
+}
